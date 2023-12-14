@@ -1,0 +1,51 @@
+1. Collect inputs  						--	This could be a method called "Collect Inputs()"
+	- What's the initial investment amount? 20,000
+	- What's the interest rate? 0.11
+
+2. Calculate 1st year of compounding interest = 22,200		--	These could be a loop
+   Calculate 2nd year of compounding interest = 24,642
+   Calculate 3rd year of compounding interest = 27,352
+   Calculate 4th year of compounding interest = 30,361
+   Calculate 5th year of compounding interest = 33,701
+
+3. Output year 5 relults = 33,701
+
+4. Calculate 6th year of compounding interest = 37,408		--	this should also be a method called "calculate()" & a method called "Output()"
+   Calculate 7th year of compounding interest = 41,523
+   Calculate 8th year of compounding interest = 46,090
+   Calculate 9th year of compounding interest = 51,160
+   Calculate 10th year of compounding interest = 56,788
+
+5. Output year 10 results = 56,788
+
+6. Calculate 11th year of compounding interest = 63,035
+   Calculate 12th year of compounding interest = 69,969
+   Calculate 13th year of compounding interest = 77,665
+   Calculate 14th year of compounding interest = 86,208
+   Calculate 15th year of compounding interest = 95,691
+
+7. Output year 15 results = 95,691
+
+8. Calculate 16th year of compounding interest = 106,217
+   Calculate 17th year of compounding interest = 117,901
+   Calculate 18th year of compounding interest = 130,871
+   Calculate 19th year of compounding interest = 145,266
+   Calculate 20th year of compounding interest = 161,246
+
+9. Output year 20 results = 161,246
+
+10. Calculate 21st year of compounding interest = 178,983
+    Calculate 22nd year of compounding interest = 198,671
+    Calculate 23rd year of compounding interest = 220,525
+    Calculate 24th year of compounding interest = 244,783
+    Calculate 25th year of compounding interest = 271,709
+
+11. Output year 25 results = 271,709
+
+12. Calculate 26th year of compounding interest = 301,597
+    Calculate 27th year of compounding interest = 334,772
+    Calculate 28th year of compounding interest = 371,598
+    Calculate 29th year of compounding interest = 412,473
+    Calculate 30th year of compounding interest = 457,845
+
+13. Output year 30 results = 457,845
